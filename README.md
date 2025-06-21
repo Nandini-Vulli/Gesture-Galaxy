@@ -5,26 +5,26 @@ Gesture Galaxy is a fun and interactive platform designed to teach sign language
 
 🎯 Objectives
 
-Enhance Accessibility: Provide an inclusive learning tool for all users.
-Improve Engagement: Use game-based learning with puzzles and challenges.
-Encourage Retention: Reinforce memory with rewards and repetition.
-Promote Practical Learning: Enable hands-on sign language practice.
-Ensure Adaptability: Support various learning speeds and levels.
+1. Enhance Accessibility
+2. Improve Engagement
+3. Encourage Retention
+4. Promote Practical Learning
+5. Ensure Adaptability
 
 
 🛠️ Tech Stack
 
 Frontend
 
-HTML, CSS, JavaScript
-Flask (Python-based framework)
+1. HTML, CSS, JavaScript
+2. Flask (Python-based framework)
 
 Machine Learning & Computer Vision
 
-MediaPipe – Hand landmark detection
-OpenCV – Video processing
-Random Forest Classifier – Gesture recognition
-Scikit-learn, NumPy, TensorFlow
+1.MediaPipe – Hand landmark detection
+2. OpenCV – Video processing
+3. Random Forest Classifier – Gesture recognition
+4. Scikit-learn, NumPy, TensorFlow
 
 Architecture Overview
 
@@ -42,46 +42,46 @@ Architecture Overview
 
 Software
 
-Python 3.x
-Flask
-OpenCV
-MediaPipe
-TensorFlow
-Scikit-learn
-NumPy
+1. Python 3.x
+2. Flask
+3. OpenCV
+4. MediaPipe
+5. TensorFlow
+6. Scikit-learn
+7. NumPy
 
 Hardware
 
-Webcam-enabled system
-At least 4 GB RAM
-Internet (for online version)
+1. Webcam-enabled system
+2. At least 4 GB RAM
+3. Internet (for online version)
 
 
 🚀 Features
 
-Real-time gesture detection and translation
-Interactive mini-games for practicing signs
-SignWriting integration for visual reinforcement
-Text and voice outputs for better understanding
-Progressive difficulty levels
+1. Real-time gesture detection and translation
+2. Interactive mini-games for practicing signs
+3. SignWriting integration for visual reinforcement
+4. Text and voice outputs for better understanding
+5. Progressive difficulty levels
 
 
 📈 Future Enhancements
 
-User Accounts: Personalized experience with saved progress
-Progress Tracking: Analyze learning speed and efficiency
-Advanced Models: Improve recognition with deep learning
-Educational Integration: Collaborate with schools
-Offline Mode: Access without internet
+1. User Accounts: Personalized experience with saved progress
+2. Progress Tracking: Analyze learning speed and efficiency
+3. Advanced Models: Improve recognition with deep learning
+4. Educational Integration: Collaborate with schools
+5. Offline Mode: Access without internet
 
 
 📚 References
 
 Key resources used during development:
 
-Stanford CS231n papers on gesture recognition
-MediaPipe and OpenCV documentation
-Research papers on educational games and sign language learning
+1. Stanford CS231n papers on gesture recognition
+2. MediaPipe and OpenCV documentation
+3. Research papers on educational games and sign language learning
 
 
 
