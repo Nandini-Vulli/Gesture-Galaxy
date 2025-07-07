@@ -1,9 +1,9 @@
- 🖐 Gesture Galaxy – Game Application on Sign Language
+Gesture Galaxy – Game Application on Sign Language
 
 Gesture Galaxy is a fun and interactive platform designed to teach sign language through real-time gesture recognition and engaging mini-games. It combines the power of computer vision and machine learning to make learning accessible and enjoyable, especially for young learners and beginners.
 
 
-🎯 Objectives
+Objectives
 
 1. Enhance Accessibility
 2. Improve Engagement
@@ -12,7 +12,7 @@ Gesture Galaxy is a fun and interactive platform designed to teach sign language
 5. Ensure Adaptability
 
 
-🛠️ Tech Stack
+Tech Stack
 
 Frontend
 
@@ -38,7 +38,7 @@ Architecture Overview
 5. Game Interface: Includes memory games and SignWriting elements.
 
 
-💻 System Requirements
+System Requirements
 
 Software
 
@@ -56,8 +56,7 @@ Hardware
 2. At least 4 GB RAM
 3. Internet (for online version)
 
-
-🚀 Features
+Features
 
 1. Real-time gesture detection and translation
 2. Interactive mini-games for practicing signs
@@ -66,18 +65,7 @@ Hardware
 5. Progressive difficulty levels
 
 
-📈 Future Enhancements
-
-1. User Accounts: Personalized experience with saved progress
-2. Progress Tracking: Analyze learning speed and efficiency
-3. Advanced Models: Improve recognition with deep learning
-4. Educational Integration: Collaborate with schools
-5. Offline Mode: Access without internet
-
-
-📚 References
-
-Key resources used during development:
+References
 
 1. Stanford CS231n papers on gesture recognition
 2. MediaPipe and OpenCV documentation
